@@ -1,0 +1,37 @@
+html body {
+  font-size: 62.5%;
+  font-family: sans-serif;
+}
+main {
+  width: 100vw;
+  height: 100vh;
+  background-color: gray;
+  font-size: 1rem;
+}
+header {
+  text-align: center;
+}
+.calculator {
+  width: 30%;
+  margin: 20% auto;
+  padding: 5% 5%;
+  border: solid 2px lightgray;
+  background-color: lightgray;
+  border-radius: 10px;
+}
+.number {
+  padding: 2% 0;
+}
+.mark {
+  color: red;
+}
+button {
+  margin: 2% 0;
+}
+.buttonSign {
+  display: inline-block;
+  margin-top: 2%;
+  border: solid 2px gray;
+  border-radius: 8px;
+  padding: 2%;
+}
